@@ -57,19 +57,19 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,typescript,java&theme=dark" />
 
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
 ### **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
 
 ### **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 
 ### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,vercel,azure&theme=dark" />
 
 </div>
 
@@ -94,13 +94,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=24archit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
-
-### 🌟 **Recent Accomplishments**
-
-- ✅ **GSSoC 2025 Contributor** - Actively contributing to open source projects
-- ✅ **AI Project Development** - Building innovative solutions with ML/AI
-- ✅ **Full-Stack Proficiency** - Mastered modern web development stack
-- ✅ **Community Engagement** - Active in tech communities and knowledge sharing
 
 ---
 

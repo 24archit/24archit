@@ -87,17 +87,6 @@
 
 ---
 
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=24archit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-
 ## 🎵 **Beyond Code**
 
 <div align="center">

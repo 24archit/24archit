@@ -4,7 +4,7 @@
   
   ### 🚀 Developer | 💡 Innovator | 🎹 Musician | 🇮🇳 India
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Open-Source+Contributor+%28GSSoC+%2725%29;Building+Beatyx%2C+ArogSphere+%26+More...;Passionate+Keyboardist+%26+Performer;Learning+DSA%2C+ML%2C+Deep+Learning+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Open-Source+Contributor+%28GSSoC+%2725%29;Passionate+Keyboardist+%26+Performer;Learning+DSA%2C+ML%2C+Deep+Learning+Daily" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   

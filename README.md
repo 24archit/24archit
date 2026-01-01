@@ -75,21 +75,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=24archit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24archit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24archit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🤝 **Community & Leadership**
 
